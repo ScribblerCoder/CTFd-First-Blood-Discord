@@ -32,3 +32,7 @@ CATEGORY_EMOJIS = {
     "blockchain": [":white_large_square::chains:"],
     "misc": [":jigsaw:"],
 }
+
+
+# Timezone for the time in the embed discord message
+TIME_ZONE = 'Asia/Amman'
