@@ -20,3 +20,11 @@ This is a dockerised bot that uses Discords channel webhook feature to announce 
     ```
 
 You can customise the announcement template in `config.py` as well.
+
+
+## Discord embed 
+
+
+<p align="center">
+<img src="PoC.gif?raw=true" width="800">
+</p>
